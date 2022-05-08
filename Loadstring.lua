@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iakzs/TheHub/main/Source.lua?token=GHSAT0AAAAAABULGABOYJYAA7KYQIX2IKZCYTYKGOA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iakzs/TheHub/main/Source.lua?token=GHSAT0AAAAAABULGABOIN5CECTOBVTKGYTMYTYKMKQ"))()
