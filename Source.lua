@@ -1,7 +1,7 @@
-if game.PlaceId == 4581966615 then
-  loadstring(game:HttpGet("https://raw.github.com/iakzs/TheHub/blob/main/scripts/Anomic.lua"))()
-elseif game.PlaceId == 286090429 then
-  loadstring(game:HttpGet("https://raw.github.com/iakzs/TheHub/blob/main/scripts/Arsenal.lua"))()
-elseif game.PlaceId == 606849621 then
-  loadstring(game:HttpGet("https://raw.github.com/iakzs/TheHub/blob/main/scripts/Jailbreak.lua"))()
+if game.PlaceId == 6872265039 then
+  loadstring(game:HttpGet("https://raw.github.com/iakzs/TheHub/blob/main/scripts/BedWars.lua"))()
+elseif game.PlaceId == 855499080 then
+  loadstring(game:HttpGet("https://raw.github.com/iakzs/TheHub/blob/main/scripts/SkyWars.lua"))()
+elseif game.PlaceId == 2248408710 then
+  loadstring(game:HttpGet("https://raw.github.com/iakzs/TheHub/blob/main/scripts/DestructionSimulator.lua"))()
 end
