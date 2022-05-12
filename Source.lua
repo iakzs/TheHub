@@ -6,4 +6,6 @@ elseif game.PlaceId == 2248408710 then
   loadstring(game:HttpGet("https://github.com/iakzs/TheHub/raw/main/scripts/DestructionSimulator.lua", true))()
 elseif game.PlaceId == 9203864304 then
   loadstring(game:HttpGet("https://github.com/iakzs/TheHub/raw/main/scripts/RaiseAFloppa.lua", true))()
+elseif game.PlaceId == 537413528 then
+  loadstring(game:HttpGet("https://github.com/iakzs/TheHub/raw/main/scripts/BuildABoat.lua", true))()
 end
