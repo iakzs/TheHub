@@ -67,7 +67,7 @@ name.BorderSizePixel = 3
 name.Position = UDim2.new(0.000210219994, 0, 0, 0)
 name.Size = UDim2.new(0, 323, 0, 24)
 name.Font = Enum.Font.Cartoon
-name.Text = "BloxHunt GUI"
+name.Text = "BloxHunt GUI by iakzs"
 name.TextColor3 = Color3.new(0, 0, 0)
 name.TextSize = 19
  
@@ -79,7 +79,7 @@ made.BorderSizePixel = 3
 made.Position = UDim2.new(0.592482567, 0, 0.937165141, 0)
 made.Size = UDim2.new(0, 131, 0, 24)
 made.Font = Enum.Font.Cartoon
-made.Text = "Made for github.com/iakzs/TheHub"
+made.Text = "github.com/iakzs/TheHub"
 made.TextColor3 = Color3.new(0, 0, 0)
 made.TextSize = 14
  
