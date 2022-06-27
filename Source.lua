@@ -8,4 +8,5 @@ elseif game.PlaceId == 9203864304 then
   loadstring(game:HttpGet("https://github.com/iakzs/TheHub/raw/main/scripts/RaiseAFloppa.lua", true))()
 elseif game.PlaceId == 70005410 then
   loadstring(game:HttpGet("https://github.com/iakzs/TheHub/raw/main/scripts/BloxHunt.lua", true))()
-end
+elseif game.PlaceId == 205224386 then
+  loadstring(game:HttpGet("https://github.com/iakzs/TheHub/raw/main/scripts/HideNSeekExtreme.lua", true))()
