@@ -47,14 +47,16 @@ local coordinates = {
     {-12.25136947631836, 7.950015068054199, -784.4310913085938},
     {-12.766785621643066, 7.950015068054199, -802.7597045898438}
 }
+print("got coordinates!")
 for i, iakzs in ipairs(coordinates) do
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(iakzs[1], iakzs[2], iakzs[3])
 
     wait(0.5)
 end
-
+print("player got teleported")
 
 -- rebirth click (delete if dont wanted, also. only use when i put the 121 checkpoint teleport!!)
+-- NOT GOING TO USE IN A LONG TIME! I DONT STARTED TO DO IT!
 --local mouse = game.Players.LocalPlayer:GetMouse()
 
 --local iakz = {
