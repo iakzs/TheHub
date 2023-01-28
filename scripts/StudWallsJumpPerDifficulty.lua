@@ -45,26 +45,7 @@ local coordinates = {
     {-13.178874969482422, 7.950015068054199, -747.4750366210938},
     {-13.395454406738281, 7.950015068054199, -765.8160400390625},
     {-12.25136947631836, 7.950015068054199, -784.4310913085938},
-    {-12.766785621643066, 7.950015068054199, -802.7597045898438},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {-12.766785621643066, 7.950015068054199, -802.7597045898438}
 }
 print("got coordinates!")
 for i, iakzs in ipairs(coordinates) do
@@ -76,7 +57,7 @@ print("player got teleported")
 
 -- rebirth click (delete if dont wanted, also. only use when i put the 121 checkpoint teleport!!)
 -- NOT GOING TO USE IN A LONG TIME! I DONT STARTED TO DO IT!
---local mouse = game.Players.LocalPlayer:GetMouse()
+--local iakzss = game.Players.LocalPlayer:GetMouse()
 
 --local iakz = {
     --{100, 200},
@@ -85,8 +66,8 @@ print("player got teleported")
 --}
 
 --for i, iakzs in ipairs(iakz) do
-   -- mouse.X = iakzs[1]
-   -- mouse.Y = iakzs[2]
-   -- mouse:Click(Enum.UserInputType.MouseButton1)
+   -- iakzss.X = iakzs[1]
+   -- iakzss.Y = iakzs[2]
+   -- iakzss:Click(Enum.UserInputType.MouseButton1)
     --wait(0.5)
 --end
