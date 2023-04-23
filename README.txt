@@ -1,2 +1,4 @@
 This hub don't have any virus.
-Any script that isn't working, pull a request at https://github.com/iakzs/TheHub/pulls
+Any script that isn't working, tell me in discord thepro#6251
+
+23 of april, the dev of this hub started to make scripts again frfrfrfrfrf
