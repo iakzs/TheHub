@@ -3,4 +3,4 @@
 
 ## Reporting a Vulnerability
 
-Contact thepro#3610 in discord.
+Contact thepro#6251 in discord.
