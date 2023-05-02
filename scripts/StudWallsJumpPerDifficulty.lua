@@ -1,4 +1,4 @@
---https://www.roblox.com/games/7933242294
+--https://www.roblox.com/games/7933242294 da gaem
 local coordinates = {
     {-13, 7, -64},
     {-13, 7, -77},
